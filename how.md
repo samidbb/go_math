@@ -1,0 +1,4 @@
+- Create repo on github and init with README.md
+- Create folders and files
+- go mod init github.com/samidbb/go_math
+- publish
